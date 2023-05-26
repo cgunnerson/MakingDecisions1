@@ -6,7 +6,7 @@
   If it is not, console log "Coding has its challenges."
 */
 console.log('Hello World')
-
+console.log("I love coding")
 //CODE HERE
 
 // For problems 2-3 use the following lines of code:
